@@ -1,0 +1,25 @@
+[
+  {
+    "id": "tactical_sprint",
+    "trigger_action": "double_tap_sprint",
+    "speed_multiplier": 1.4,
+    "duration_ticks": 60,
+    "cooldown_ticks": 100,
+    "fov_modifier": 1.15
+  },
+  {
+    "id": "slide",
+    "trigger_action": "crouch_while_sprinting",
+    "speed_multiplier": 1.2,
+    "duration_ticks": 20,
+    "hitbox_height": 0.6
+  },
+  {
+    "id": "armor_plate",
+    "max_plates": 3,
+    "hp_per_plate": 10.0,
+    "equip_time_ticks": 30,
+    "sound_equip": "warzone:plate_in",
+    "loot_source": "supply_box"
+  }
+]
