@@ -1,0 +1,14 @@
+[
+  {
+    "id": "gulag_match",
+    "trigger_event": "player_death",
+    "arena_schematic": "warzone:gulag_showers",
+    "opponent_mob": "minecraft:zombie",
+    "opponent_speed_multiplier": 1.5,
+    "opponent_health_multiplier": 2.0,
+    "player_starting_weapon": "wz_x16",
+    "win_condition": "kill_opponent",
+    "win_action": "respawn_in_overworld_with_inventory",
+    "lose_action": "vanilla_death_screen_and_drop_items"
+  }
+]
