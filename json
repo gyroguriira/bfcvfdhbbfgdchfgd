@@ -1,0 +1,28 @@
+[
+  {
+    "id": "wz_m4a1",
+    "name": "M4A1",
+    "type": "assault_rifle",
+    "damage_per_shot": 8.0,
+    "fire_rate_rpm": 800,
+    "mag_size": 30,
+    "reload_time_ticks": 40,
+    "recoil_vertical": 1.2,
+    "recoil_horizontal": 0.3,
+    "sound_fire": "warzone:m4a1_fire",
+    "loot_source": "supply_box"
+  },
+  {
+    "id": "wz_x16",
+    "name": "X16 Pistol",
+    "type": "handgun",
+    "damage_per_shot": 6.0,
+    "fire_rate_rpm": 300,
+    "mag_size": 13,
+    "reload_time_ticks": 25,
+    "recoil_vertical": 0.8,
+    "recoil_horizontal": 0.1,
+    "sound_fire": "warzone:x16_fire",
+    "loot_source": "gulag_starting_weapon"
+  }
+]
